@@ -1,0 +1,5 @@
+<map id="game2" name="game2">
+<area shape="rect" id="node4" href="$classrightbutton.html" title="rightbutton" alt="" coords="406,81,489,108"/>
+<area shape="rect" id="node6" href="$classleftbutton.html" title="leftbutton" alt="" coords="203,81,279,108"/>
+<area shape="rect" id="node7" href="$classmidbutton.html" title="midbutton" alt="" coords="303,81,381,108"/>
+</map>

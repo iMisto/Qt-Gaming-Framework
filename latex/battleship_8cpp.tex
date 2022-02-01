@@ -1,0 +1,73 @@
+\hypertarget{battleship_8cpp}{}\section{battleship.\+cpp File Reference}
+\label{battleship_8cpp}\index{battleship.\+cpp@{battleship.\+cpp}}
+
+
+battleship  
+
+
+{\ttfamily \#include \char`\"{}battleship.\+h\char`\"{}}\newline
+{\ttfamily \#include $<$stdlib.\+h$>$}\newline
+{\ttfamily \#include $<$time.\+h$>$}\newline
+{\ttfamily \#include \char`\"{}question\+\_\+tab.\+h\char`\"{}}\newline
+{\ttfamily \#include $<$unordered\+\_\+map$>$}\newline
+{\ttfamily \#include $<$Qt\+Global$>$}\newline
+{\ttfamily \#include \char`\"{}victory\+\_\+screen.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}lose\+\_\+screen.\+h\char`\"{}}\newline
+Include dependency graph for battleship.\+cpp\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{battleship_8cpp__incl}
+\end{center}
+\end{figure}
+\subsection*{Macros}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{battleship_8cpp_a2c6d8b1b1a798e59c2acfd0a7847c9da}\label{battleship_8cpp_a2c6d8b1b1a798e59c2acfd0a7847c9da}} 
+\#define {\bfseries G\+E\+T\+\_\+\+V\+A\+R\+I\+A\+B\+L\+E\+\_\+\+N\+A\+ME}(Variable)~(\#Variable)
+\end{DoxyCompactItemize}
+\subsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{battleship_8cpp_a77bd4f876bdc3afed5acdd936f775d34}\label{battleship_8cpp_a77bd4f876bdc3afed5acdd936f775d34}} 
+int {\bfseries seconds} = 600
+\item 
+\mbox{\Hypertarget{battleship_8cpp_a94acbe75d9eccc82cdebd3d04aaa3d68}\label{battleship_8cpp_a94acbe75d9eccc82cdebd3d04aaa3d68}} 
+int {\bfseries correct} = 0
+\item 
+\mbox{\Hypertarget{battleship_8cpp_a88ea6d6e114267e884acba52d0464ffe}\label{battleship_8cpp_a88ea6d6e114267e884acba52d0464ffe}} 
+int {\bfseries incorrect} = 0
+\item 
+\mbox{\Hypertarget{battleship_8cpp_ae967c300a67796bafbb974f7324c8461}\label{battleship_8cpp_ae967c300a67796bafbb974f7324c8461}} 
+Q\+String {\bfseries question\+\_\+path}
+\item 
+\mbox{\Hypertarget{battleship_8cpp_a018b0ff0fd0b5684ac437ffc566831f5}\label{battleship_8cpp_a018b0ff0fd0b5684ac437ffc566831f5}} 
+Q\+String {\bfseries correct\+\_\+path}
+\item 
+\mbox{\Hypertarget{battleship_8cpp_acb559820d9ca11295b4500f179ef6392}\label{battleship_8cpp_acb559820d9ca11295b4500f179ef6392}} 
+int {\bfseries i} = 0
+\item 
+\mbox{\Hypertarget{battleship_8cpp_a37d972ae0b47b9099e30983131d31916}\label{battleship_8cpp_a37d972ae0b47b9099e30983131d31916}} 
+int {\bfseries j} = -\/1
+\item 
+\mbox{\Hypertarget{battleship_8cpp_a2474a4788b66890cfb50ccdafdcd8322}\label{battleship_8cpp_a2474a4788b66890cfb50ccdafdcd8322}} 
+Q\+List$<$ int $>$ {\bfseries good\+\_\+ships} = Q\+List$<$int$>$\{10,12,13,30,31,32,33\}
+\item 
+\mbox{\Hypertarget{battleship_8cpp_a9db4b8549c0abf5bd7fa95b22c17823e}\label{battleship_8cpp_a9db4b8549c0abf5bd7fa95b22c17823e}} 
+Q\+String {\bfseries path\+\_\+explosion} = \char`\"{}\+:/game1assets/pop.\+png\char`\"{}
+\item 
+\mbox{\Hypertarget{battleship_8cpp_a5aa1731610537e057191db627c19f1ca}\label{battleship_8cpp_a5aa1731610537e057191db627c19f1ca}} 
+int {\bfseries check} = 1
+\item 
+\mbox{\Hypertarget{battleship_8cpp_af159af6e0bfb9cbe47827ffede96b63d}\label{battleship_8cpp_af159af6e0bfb9cbe47827ffede96b63d}} 
+unordered\+\_\+map$<$ string, Q\+String $>$ {\bfseries urlmap}
+\item 
+\mbox{\Hypertarget{battleship_8cpp_acfbdf8cb47061f51bf94808a1764df19}\label{battleship_8cpp_acfbdf8cb47061f51bf94808a1764df19}} 
+unordered\+\_\+map$<$ string, Q\+String $>$ {\bfseries explodedmap}
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+battleship 
+
+implementation of battleship class 

@@ -1,0 +1,44 @@
+[
+    {
+        "Yasser": {
+            "DOB": "1/1/00",
+            "FirstName": "Yasser",
+            "G1-Losses": 1,
+            "G1-Wins": 0,
+            "Gender": "Male",
+            "Image": "/home/eece435l/435-project-group7/profile pictures/dog.jpg",
+            "LastName": "Nasser",
+            "Password": "YasserNasser123",
+            "PhoneNumber": "+961-24124141",
+            "Username": "Yasser"
+        }
+    },
+    {
+        "Issam": {
+            "DOB": "1/1/00",
+            "FirstName": "Issam",
+            "G1-Losses": 8,
+            "G1-Wins": 2,
+            "Gender": "Male",
+            "Image": "/home/eece435l/435-project-group7/profile pictures/bird.jpg",
+            "LastName": "Misto",
+            "Password": "IssamMisto123",
+            "PhoneNumber": "+961-76554089",
+            "Username": "Issam"
+        }
+    },
+    {
+        "yasserr": {
+            "DOB": "1/1/00",
+            "FirstName": "ABCefg123",
+            "G1-Losses": 0,
+            "G1-Wins": 0,
+            "Gender": "Male",
+            "Image": "/home/eece435l/435-project-group7/profile pictures/dog.jpg",
+            "LastName": "adad",
+            "Password": "ABCefg123",
+            "PhoneNumber": "+961-13878737",
+            "Username": "yasserr"
+        }
+    }
+]

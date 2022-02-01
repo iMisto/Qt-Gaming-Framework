@@ -1,0 +1,4 @@
+<map id="battleship_main_menu.h" name="battleship_main_menu.h">
+<area shape="rect" id="node2" href="$battleship__main__menu_8cpp.html" title="battleship main menu " alt="" coords="5,80,183,107"/>
+<area shape="rect" id="node3" href="$welcome__screen_8cpp.html" title="screen that shows when user logins in " alt="" coords="207,80,352,107"/>
+</map>

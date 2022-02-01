@@ -1,0 +1,12 @@
+<map id="loginpanel.h" name="loginpanel.h">
+<area shape="rect" id="node2" href="$victory__screen_8h.html" title="victory screen class " alt="" coords="235,80,353,107"/>
+<area shape="rect" id="node8" href="$loginpanel_8cpp.html" title="implementation of login menu " alt="" coords="377,80,483,107"/>
+<area shape="rect" id="node9" href="$lose__screen_8cpp.html" title="lose screen implementation of lose screen class " alt="" coords="506,80,623,107"/>
+<area shape="rect" id="node10" href="$mainpanel_8cpp.html" title="mainpanel " alt="" coords="647,80,754,107"/>
+<area shape="rect" id="node11" href="$welcome__screen_8cpp.html" title="screen that shows when user logins in " alt="" coords="779,80,924,107"/>
+<area shape="rect" id="node3" href="$battleship_8cpp.html" title="battleship " alt="" coords="5,155,108,181"/>
+<area shape="rect" id="node4" href="$game2_8cpp.html" title="game2 " alt="" coords="132,155,219,181"/>
+<area shape="rect" id="node5" href="$left__disks_8cpp.html" title="left discs " alt="" coords="243,155,345,181"/>
+<area shape="rect" id="node6" href="$mid__disks_8cpp.html" title="mid discs " alt="" coords="370,155,477,181"/>
+<area shape="rect" id="node7" href="$victory__screen_8cpp.html" title="victory screen " alt="" coords="501,155,633,181"/>
+</map>

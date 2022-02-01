@@ -1,0 +1,19 @@
+{
+	"C1":"c++",
+	"C2":"O(n^2)",
+	"C3":"O(n^2)",
+	"C4":"1972",
+	"C5":"Pointers are better",
+	"C6":"It's better to do so outside the loop",
+	"C7":"math.h",
+	"C8":"cout << 'Hello World';",
+	"C9":"&",
+	"C10":"It's better to gradually add code",
+	"C11":"//",
+	"C12":"Low Level Language",
+	"C13":"for (condition){}",
+	"C14":"O(n^2)",
+	"C15":"O(1)",
+	"C16":"int array[5];"
+}
+	

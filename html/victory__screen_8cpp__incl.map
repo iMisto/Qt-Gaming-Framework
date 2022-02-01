@@ -1,0 +1,11 @@
+<map id="victory_screen.cpp" name="victory_screen.cpp">
+<area shape="rect" id="node2" href="$victory__screen_8h.html" title="victory screen class " alt="" coords="1083,80,1202,107"/>
+<area shape="rect" id="node18" href="$battleship_8h.html" title="battleship class " alt="" coords="1525,304,1614,331"/>
+<area shape="rect" id="node6" href="$loginpanel_8h.html" title="loginpanel header class " alt="" coords="1055,155,1145,181"/>
+<area shape="rect" id="node8" href="$welcome__screen_8h.html" title="header file for welcome_screen.cpp " alt="" coords="869,229,1000,256"/>
+<area shape="rect" id="node9" href="$game2_8h.html" title="game2 class " alt="" coords="709,304,781,331"/>
+<area shape="rect" id="node12" href="$leftbutton_8h.html" title="leftbutton class " alt="" coords="815,379,902,405"/>
+<area shape="rect" id="node14" href="$midbutton_8h.html" title="midbutton class " alt="" coords="700,379,791,405"/>
+<area shape="rect" id="node15" href="$rightbutton_8h.html" title="rightbutton class " alt="" coords="926,379,1021,405"/>
+<area shape="rect" id="node21" href="$question__tab_8h_source.html" title="question_tab.h" alt="" coords="1248,379,1355,405"/>
+</map>

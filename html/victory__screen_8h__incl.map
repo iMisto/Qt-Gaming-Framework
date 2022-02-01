@@ -1,0 +1,8 @@
+<map id="victory_screen.h" name="victory_screen.h">
+<area shape="rect" id="node5" href="$loginpanel_8h.html" title="loginpanel header class " alt="" coords="249,80,340,107"/>
+<area shape="rect" id="node7" href="$welcome__screen_8h.html" title="header file for welcome_screen.cpp " alt="" coords="368,155,499,181"/>
+<area shape="rect" id="node8" href="$game2_8h.html" title="game2 class " alt="" coords="652,229,724,256"/>
+<area shape="rect" id="node11" href="$leftbutton_8h.html" title="leftbutton class " alt="" coords="645,304,731,331"/>
+<area shape="rect" id="node13" href="$midbutton_8h.html" title="midbutton class " alt="" coords="991,304,1081,331"/>
+<area shape="rect" id="node14" href="$rightbutton_8h.html" title="rightbutton class " alt="" coords="526,304,621,331"/>
+</map>

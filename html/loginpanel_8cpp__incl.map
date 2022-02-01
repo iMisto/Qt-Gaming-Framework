@@ -1,0 +1,10 @@
+<map id="loginpanel.cpp" name="loginpanel.cpp">
+<area shape="rect" id="node2" href="$loginpanel_8h.html" title="loginpanel header class " alt="" coords="371,80,461,107"/>
+<area shape="rect" id="node7" href="$welcome__screen_8h.html" title="header file for welcome_screen.cpp " alt="" coords="497,155,628,181"/>
+<area shape="rect" id="node17" href="$mainpanel_8h.html" title="mainpanel header class " alt="" coords="330,304,422,331"/>
+<area shape="rect" id="node18" href="$signup__form_8h.html" title="for registering new users " alt="" coords="49,304,153,331"/>
+<area shape="rect" id="node8" href="$game2_8h.html" title="game2 class " alt="" coords="856,229,928,256"/>
+<area shape="rect" id="node11" href="$leftbutton_8h.html" title="leftbutton class " alt="" coords="1103,304,1190,331"/>
+<area shape="rect" id="node13" href="$midbutton_8h.html" title="midbutton class " alt="" coords="1215,304,1305,331"/>
+<area shape="rect" id="node14" href="$rightbutton_8h.html" title="rightbutton class " alt="" coords="1330,304,1425,331"/>
+</map>

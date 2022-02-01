@@ -1,0 +1,7 @@
+<map id="lose_screen.h" name="lose_screen.h">
+<area shape="rect" id="node2" href="$battleship_8cpp.html" title="battleship " alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node3" href="$game2_8cpp.html" title="game2 " alt="" coords="132,80,219,107"/>
+<area shape="rect" id="node4" href="$left__disks_8cpp.html" title="left discs " alt="" coords="243,80,345,107"/>
+<area shape="rect" id="node5" href="$lose__screen_8cpp.html" title="lose screen implementation of lose screen class " alt="" coords="370,80,487,107"/>
+<area shape="rect" id="node6" href="$mid__disks_8cpp.html" title="mid discs " alt="" coords="511,80,618,107"/>
+</map>

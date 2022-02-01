@@ -1,0 +1,82 @@
+{
+	"Quest_1":"Which is faster python or c++?",
+	"Ans_11":"python",
+	"Ans_12":"c++",
+	"Ans_13":"both are the same",
+	
+	"Quest_2":"What is the time complexity of bubble sort?",
+	"Ans_21":"O(n^2)",
+	"Ans_22":"O(n)",
+	"Ans_23":"Neither",
+	
+	"Quest_3":"What is the time complexity of insertion sort?",
+	"Ans_31":"O(n^2)",
+	"Ans_32":"O(nlogn)",
+	"Ans_33":"Neither",
+	
+	"Quest_4":"When was the C language invented?",
+	"Ans_41":"1970",
+	"Ans_42":"1972",
+	"Ans_43":"Neither",
+	
+	"Quest_5":"Is it better to use pointers or normal variables?",
+	"Ans_51":"Pointers are better",
+	"Ans_52":"Variables are better",
+	"Ans_53":"Both are the same",
+	
+	"Quest_6":"Is it better to declare a variable to be used inside of a for loop inside the loop or outside of it?",
+	"Ans_61":"It's better to do so outside the loop",
+	"Ans_62":"It's better to do so inside the loop",
+	"Ans_63":"It's the same for both",
+	
+	"Quest_7":"Which library does the pow() function belong to?",
+	"Ans_71":"stdio.h",
+	"Ans_72":"time.h",
+	"Ans_73":"math.h",
+	
+	"Quest_8":"Which of the following syntax is the correct when printing Hello World?",
+	"Ans_81":"cout << 'Hello World';",
+	"Ans_82":"cout << Hello World",
+	"Ans_83":"print(Hello World)",
+	
+	"Quest_9":"Which of the following symbols corresponds to the address operator?",
+	"Ans_91":"+",
+	"Ans_92":"*",
+	"Ans_93":"&",
+	
+	"Quest_10":"Is it better to write all your code at once or to gradually add code?",
+	"Ans_101":"It's better to write it all at once",
+	"Ans_102":"It's better to gradually add code",
+	"Ans_103":"Both are the same",
+	
+	"Quest_11":"Which of the following is the correct syntax for comments in C++?",
+	"Ans_111":"/",
+	"Ans_112":"//",
+	"Ans_113":"Neither",
+	
+	"Quest_12":"What type of language is C++?",
+	"Ans_121":"High Level Language",
+	"Ans_122":"Low Level Language",
+	"Ans_123":"Neither",
+	
+	"Quest_13":"What's the correct syntax for a for loop in c++?",
+	"Ans_131":"Neither",
+	"Ans_132":"for condition()",
+	"Ans_133":"for (condition){}",
+	
+	"Quest_14":"What is the time complexity of quick sort?",
+	"Ans_141":"O(n)",
+	"Ans_142":"O(n^2)",
+	"Ans_143":"O(nlogn)",
+	
+	"Quest_15":"What is the look up time for a hash table?",
+	"Ans_151":"O(n)",
+	"Ans_152":"O(1)",
+	"Ans_153":"O(n^4)",
+	
+	"Quest_16":"Which of the following is the proper sytnax for declaring an array in c++?",
+	"Ans_161":"array[5] int",
+	"Ans_162":"int array[5];",
+	"Ans_163":"Neither"
+	
+}

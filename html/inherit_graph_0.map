@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classbattleship.html" title="battleship" alt="" coords="5,233,84,260"/>
+<area shape="rect" id="node2" href="$classBattleship__Main__Menu.html" title="Battleship_Main_Menu" alt="" coords="132,5,287,32"/>
+<area shape="rect" id="node3" href="$classgame2__main__menu.html" title="game2_main_menu" alt="" coords="142,56,277,83"/>
+<area shape="rect" id="node4" href="$classhistorypanel.html" title="historypanel" alt="" coords="163,107,255,133"/>
+<area shape="rect" id="node5" href="$classloginPanel.html" title="loginPanel" alt="" coords="168,157,251,184"/>
+<area shape="rect" id="node6" href="$classlose__screen.html" title="lose_screen" alt="" coords="163,208,255,235"/>
+<area shape="rect" id="node7" href="$classmainpanel.html" title="mainpanel" alt="" coords="169,259,250,285"/>
+<area shape="rect" id="node8" href="$classquestion__tab.html" title="question_tab" alt="" coords="161,309,257,336"/>
+<area shape="rect" id="node9" href="$classsignup__form.html" title="signup_form" alt="" coords="163,360,256,387"/>
+<area shape="rect" id="node10" href="$classvictory__screen.html" title="victory_screen" alt="" coords="156,411,263,437"/>
+<area shape="rect" id="node11" href="$classwelcome__screen.html" title="welcome_screen" alt="" coords="149,461,269,488"/>
+</map>

@@ -1,0 +1,82 @@
+{
+	"Quest_1":"Which of the following songs is Eminem's?",
+	"Ans_11":"Lose Yourself",
+	"Ans_12":"Rap God",
+	"Ans_13":"Both",
+	
+	"Quest_2":"What is the most streamed song on spotify?",
+	"Ans_21":"Blinding Lights",
+	"Ans_22":"Shape of You",
+	"Ans_23":"Neither",
+	
+	"Quest_3":"Which musical artist is the most succesful in terms of sales?",
+	"Ans_31":"Michael Jackson",
+	"Ans_32":"The Beatles",
+	"Ans_33":"AC/DC",
+	
+	"Quest_4":"Which of the following musical artists is still alive today?",
+	"Ans_41":"Michael Jackson",
+	"Ans_42":"Elvis",
+	"Ans_43":"Neither",
+	
+	"Quest_5":"The song Billy Jean is performed by?",
+	"Ans_51":"Taylor Swift",
+	"Ans_52":"Michael Jackson",
+	"Ans_53":"Neither",
+	
+	"Quest_6":"Both jazz and rock are genres of music?",
+	"Ans_61":"Only jazz",
+	"Ans_62":"Only rock",
+	"Ans_63":"Both are genres",
+	
+	"Quest_7":"Which of the following bands specialized in jazz?",
+	"Ans_71":"AC/DC",
+	"Ans_72":"Return to Forever",
+	"Ans_73":"Neither",
+	
+	"Quest_8":"Is anghami or spotify the most used streaming service for music?",
+	"Ans_81":"Anghami",
+	"Ans_82":"Spotify",
+	"Ans_83":"Neither",
+	
+	"Quest_9":"Apple music is owned by?",
+	"Ans_91":"Samsung",
+	"Ans_92":"Microsoft",
+	"Ans_93":"Apple",
+	
+	"Quest_10":"Would you like a muffin?",
+	"Ans_101":"Yes!",
+	"Ans_102":"No!",
+	"Ans_103":"Potato",
+	
+	"Quest_11":"Which of the following songs was released in 2020?",
+	"Ans_111":"What a Wonderful World",
+	"Ans_112":"My Heart Will Go On",
+	"Ans_113":"Blinding Lights",
+	
+	"Quest_12":"Save your Tears is performed by?",
+	"Ans_121":"The Weekend",
+	"Ans_122":"Metallica",
+	"Ans_123":"Neither",
+	
+	"Quest_13":"Metallica speacialized in what genre of music?",
+	"Ans_131":"Jazz",
+	"Ans_132":"Metal",
+	"Ans_133":"Rock",
+	
+	"Quest_14":"How long is the longest song ever?",
+	"Ans_141":"10 hours",
+	"Ans_142":"13 hours",
+	"Ans_143":"1 hour",
+	
+	"Quest_15":"Which of the following is a christmas song?",
+	"Ans_151":"Jingle Bells",
+	"Ans_152":"Silent Night",
+	"Ans_153":"Both",
+	
+	"Quest_16":"Which musical artist is referred to as the king of pop?",
+	"Ans_161":"Michael Jackson",
+	"Ans_162":"Ali Hijjawi",
+	"Ans_163":"Neither"
+	
+}

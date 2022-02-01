@@ -1,0 +1,21 @@
+<map id="midbutton.h" name="midbutton.h">
+<area shape="rect" id="node2" href="$game2_8h.html" title="game2 class " alt="" coords="914,80,986,107"/>
+<area shape="rect" id="node20" href="$midbutton_8cpp.html" title="midbutton " alt="" coords="1010,80,1114,107"/>
+<area shape="rect" id="node3" href="$welcome__screen_8h.html" title="header file for welcome_screen.cpp " alt="" coords="463,155,594,181"/>
+<area shape="rect" id="node7" href="$game2_8cpp.html" title="game2 " alt="" coords="740,379,827,405"/>
+<area shape="rect" id="node8" href="$left__disks_8cpp.html" title="left discs " alt="" coords="904,379,1007,405"/>
+<area shape="rect" id="node14" href="$welcome__screen_8cpp.html" title="screen that shows when user logins in " alt="" coords="549,304,695,331"/>
+<area shape="rect" id="node16" href="$extern__vars_8h.html" title="extern_vars class " alt="" coords="821,304,922,331"/>
+<area shape="rect" id="node17" href="$game2__main__menu_8cpp.html" title="game2 main menu " alt="" coords="1094,379,1254,405"/>
+<area shape="rect" id="node18" href="$left__disks_8h.html" title="left discs class " alt="" coords="940,155,1029,181"/>
+<area shape="rect" id="node19" href="$leftbutton_8cpp.html" title="leftbutton " alt="" coords="1047,229,1149,256"/>
+<area shape="rect" id="node4" href="$loginpanel_8h.html" title="loginpanel header class " alt="" coords="309,229,399,256"/>
+<area shape="rect" id="node5" href="$victory__screen_8h.html" title="victory screen class " alt="" coords="407,304,525,331"/>
+<area shape="rect" id="node11" href="$loginpanel_8cpp.html" title="implementation of login menu " alt="" coords="5,304,111,331"/>
+<area shape="rect" id="node15" href="$historypanel_8cpp.html" title="user game history implementation " alt="" coords="566,229,683,256"/>
+<area shape="rect" id="node12" href="$lose__screen_8cpp.html" title="lose screen implementation of lose screen class " alt="" coords="266,304,383,331"/>
+<area shape="rect" id="node13" href="$mainpanel_8cpp.html" title="mainpanel " alt="" coords="135,304,242,331"/>
+<area shape="rect" id="node6" href="$battleship_8cpp.html" title="battleship " alt="" coords="287,379,389,405"/>
+<area shape="rect" id="node9" href="$mid__disks_8cpp.html" title="mid discs " alt="" coords="583,379,690,405"/>
+<area shape="rect" id="node10" href="$victory__screen_8cpp.html" title="victory screen " alt="" coords="413,379,545,405"/>
+</map>

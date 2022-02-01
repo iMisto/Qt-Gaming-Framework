@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>flags/Jordan.png</file>
+        <file>flags/Lebanon.png</file>
+        <file>flags/Qatar.webp</file>
+        <file>flags/saudi.png</file>
+        <file>flags/UAE.png</file>
+        <file>Assets/Main_Menu.png</file>
+        <file>game1assets/background.png</file>
+        <file>game1assets/Boat1.png</file>
+        <file>game1assets/Boat2.png</file>
+        <file>game1assets/Boat3.png</file>
+        <file>game1assets/Boat4.png</file>
+        <file>game1assets/Mid1.png</file>
+        <file>game1assets/Mid2.png</file>
+        <file>game1assets/ocean_bg.png</file>
+        <file>game1assets/pop.png</file>
+        <file>game1assets/ships.jpg</file>
+        <file>game1assets/smallboat.png</file>
+        <file>game1assets/smallship.png</file>
+        <file>game1assets/splash.png</file>
+        <file>game2/background.png</file>
+        <file>game2/bluebutt.png</file>
+        <file>game2/redbutt.png</file>
+        <file>game2/yellowbutt.png</file>
+        <file>game2/background.jpeg</file>
+        <file>game2/hit.mp3</file>
+        <file>game2/music.mp3</file>
+        <file>game2/mainyellow.png</file>
+        <file>game2/mainredd.png</file>
+        <file>game2/mainblue.png</file>
+    </qresource>
+</RCC>

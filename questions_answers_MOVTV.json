@@ -1,0 +1,82 @@
+{
+	"Quest_1":"What's the highest grossing movie of all time?",
+	"Ans_11":"Titanic",
+	"Ans_12":"Avengers: Endgame",
+	"Ans_13":"Avatar",
+	
+	"Quest_2":"What is the highest grossing movie series of all time?",
+	"Ans_21":"Harry Potter",
+	"Ans_22":"Marvel Cinematic Universe",
+	"Ans_23":"Lord of the Rings",
+	
+	"Quest_3":"Which of the following movies was released in 2019?",
+	"Ans_31":"Beauty and the Beast",
+	"Ans_32":"Titanic",
+	"Ans_33":"Joker",
+	
+	"Quest_4":"What is the highest rated movie on IMDB?",
+	"Ans_41":"The Godfather",
+	"Ans_42":"The Shawshank Redemption",
+	"Ans_43":"Neither",
+	
+	"Quest_5":"Who plays the character Jack in titanic?",
+	"Ans_51":"Leonardo Dicaprio",
+	"Ans_52":"Morgan Freeman",
+	"Ans_53":"Jack Black",
+	
+	"Quest_6":"How many dwarves were in Snow White?",
+	"Ans_61":"Eight",
+	"Ans_62":"Seven",
+	"Ans_63":"Nine",
+	
+	"Quest_7":"What is the highest rated TV show on IMDB?",
+	"Ans_71":"Breaking Bad",
+	"Ans_72":"Planet Earth II",
+	"Ans_73":"Chernobyl",
+	
+	"Quest_8":"What movie had the highest budget?",
+	"Ans_81":"Titanic",
+	"Ans_82":"Pirates of the Caribbean",
+	"Ans_83":"Neither",
+	
+	"Quest_9":"Which TV show has won the most emmy's?",
+	"Ans_91":"Saturday Night Live",
+	"Ans_92":"Game of Thrones",
+	"Ans_93":"Breaking Bad",
+	
+	"Quest_10":"Who plays the lead character in John Wick?",
+	"Ans_101":"Keanu Reeves",
+	"Ans_102":"Tom Cruise",
+	"Ans_103":"Neither",
+	
+	"Quest_11":"Which actor does his own stunts in movies?",
+	"Ans_111":"Morgan Freeman",
+	"Ans_112":"Yasser Nasser",
+	"Ans_113":"Tom Cruise",
+	
+	"Quest_12":"Who plays the lead role in Pirates of the Caribbean?",
+	"Ans_121":"Jack Black",
+	"Ans_122":"Johnny Depp",
+	"Ans_123":"Neither",
+	
+	"Quest_13":"What's the name of the main character in Futurama?",
+	"Ans_131":"Hubert",
+	"Ans_132":"Pebbles",
+	"Ans_133":"Fry",
+	
+	"Quest_14":"In Futurama, a real mathematical theorem was devised specifically for the show",
+	"Ans_141":"This is correct",
+	"Ans_142":"This is partially correct",
+	"Ans_143":"This is incorrect",
+	
+	"Quest_15":"In Friends, a real monkey was used for the show",
+	"Ans_151":"This is incorrect",
+	"Ans_152":"This is correct",
+	"Ans_153":"This is partially correct",
+	
+	"Quest_16":"Would you like a cookie?",
+	"Ans_161":"Sure!",
+	"Ans_162":"No!",
+	"Ans_163":"Potato"
+	
+}

@@ -1,0 +1,6 @@
+<map id="welcome_screen.h" name="welcome_screen.h">
+<area shape="rect" id="node5" href="$game2_8h.html" title="game2 class " alt="" coords="546,80,618,107"/>
+<area shape="rect" id="node8" href="$leftbutton_8h.html" title="leftbutton class " alt="" coords="538,155,625,181"/>
+<area shape="rect" id="node10" href="$midbutton_8h.html" title="midbutton class " alt="" coords="423,155,514,181"/>
+<area shape="rect" id="node11" href="$rightbutton_8h.html" title="rightbutton class " alt="" coords="304,155,398,181"/>
+</map>

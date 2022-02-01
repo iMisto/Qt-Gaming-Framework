@@ -1,0 +1,107 @@
+\hypertarget{game2_8cpp}{}\section{game2.\+cpp File Reference}
+\label{game2_8cpp}\index{game2.\+cpp@{game2.\+cpp}}
+
+
+\hyperlink{classgame2}{game2}  
+
+
+{\ttfamily \#include \char`\"{}game2.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}left\+\_\+disks.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}mid\+\_\+disks.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}right\+\_\+disks.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}welcome\+\_\+screen.\+h\char`\"{}}\newline
+{\ttfamily \#include $<$Q\+Object$>$}\newline
+{\ttfamily \#include $<$Q\+Widget$>$}\newline
+{\ttfamily \#include $<$Q\+Debug$>$}\newline
+{\ttfamily \#include $<$Q\+Graphics\+Pixmap\+Item$>$}\newline
+{\ttfamily \#include $<$Q\+Timer$>$}\newline
+{\ttfamily \#include $<$Q\+Graphics\+Path\+Item$>$}\newline
+{\ttfamily \#include \char`\"{}victory\+\_\+screen.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}lose\+\_\+screen.\+h\char`\"{}}\newline
+{\ttfamily \#include \char`\"{}extern\+\_\+vars.\+h\char`\"{}}\newline
+{\ttfamily \#include $<$Q\+Media\+Playlist$>$}\newline
+Include dependency graph for game2.\+cpp\+:\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=350pt]{game2_8cpp__incl}
+\end{center}
+\end{figure}
+\subsection*{Variables}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{game2_8cpp_a92e4453fad760c994eea1323e52198dd}\label{game2_8cpp_a92e4453fad760c994eea1323e52198dd}} 
+int \hyperlink{game2_8cpp_a92e4453fad760c994eea1323e52198dd}{counter\+\_\+red} = 0
+\begin{DoxyCompactList}\small\item\em Counter for red discs. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_abc2f9d7acffb04e74b5f18cbc82c1427}\label{game2_8cpp_abc2f9d7acffb04e74b5f18cbc82c1427}} 
+int \hyperlink{game2_8cpp_abc2f9d7acffb04e74b5f18cbc82c1427}{counter\+\_\+yellow} = 0
+\begin{DoxyCompactList}\small\item\em Counter for yellow discs. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_a19927408ccf3e4db3a4b2c83861fdbfe}\label{game2_8cpp_a19927408ccf3e4db3a4b2c83861fdbfe}} 
+int \hyperlink{game2_8cpp_a19927408ccf3e4db3a4b2c83861fdbfe}{counter\+\_\+blue} = 0
+\begin{DoxyCompactList}\small\item\em Counter for blue discs. \end{DoxyCompactList}\item 
+int \hyperlink{game2_8cpp_ad5255b2ed36beca0ba85eda17d99c421}{total\+\_\+score} = 0
+\begin{DoxyCompactList}\small\item\em Total score counter. \end{DoxyCompactList}\item 
+int \hyperlink{game2_8cpp_a6326921112efa5d8d46fa16601d07a9d}{missed\+\_\+disks} = 0
+\begin{DoxyCompactList}\small\item\em Missed discs counter. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_a9a2b31e1552f96a1e64749f49e11d914}\label{game2_8cpp_a9a2b31e1552f96a1e64749f49e11d914}} 
+Q\+Timer $\ast$ \hyperlink{game2_8cpp_a9a2b31e1552f96a1e64749f49e11d914}{timer\+\_\+left} = new Q\+Timer()
+\begin{DoxyCompactList}\small\item\em Timer for spawning left discs on easy mode. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_ab29ef84a56600612c85e13d4ab8ac361}\label{game2_8cpp_ab29ef84a56600612c85e13d4ab8ac361}} 
+Q\+Timer $\ast$ \hyperlink{game2_8cpp_ab29ef84a56600612c85e13d4ab8ac361}{timer\+\_\+mid} = new Q\+Timer()
+\begin{DoxyCompactList}\small\item\em Timer for spawning middle discs on easy mode. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_a2313e67ce1d752d90f657baa0c1616b3}\label{game2_8cpp_a2313e67ce1d752d90f657baa0c1616b3}} 
+Q\+Timer $\ast$ \hyperlink{game2_8cpp_a2313e67ce1d752d90f657baa0c1616b3}{timer\+\_\+right} = new Q\+Timer()
+\begin{DoxyCompactList}\small\item\em Timer for spawning right discs on easy mode. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_a3bec066694e0433031cb7dd8c1a013ac}\label{game2_8cpp_a3bec066694e0433031cb7dd8c1a013ac}} 
+Q\+Timer $\ast$ \hyperlink{game2_8cpp_a3bec066694e0433031cb7dd8c1a013ac}{timer\+\_\+left\+\_\+medium} = new Q\+Timer()
+\begin{DoxyCompactList}\small\item\em Timer for spawning left discs on medium mode. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_a7b4c6b7e50b60d7880ea492b3dbf0dd1}\label{game2_8cpp_a7b4c6b7e50b60d7880ea492b3dbf0dd1}} 
+Q\+Timer $\ast$ \hyperlink{game2_8cpp_a7b4c6b7e50b60d7880ea492b3dbf0dd1}{timer\+\_\+mid\+\_\+medium} = new Q\+Timer()
+\begin{DoxyCompactList}\small\item\em Timer for spawning middle discs on medium mode. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_a26286620e13aee0d06462d819c0f8f29}\label{game2_8cpp_a26286620e13aee0d06462d819c0f8f29}} 
+Q\+Timer $\ast$ \hyperlink{game2_8cpp_a26286620e13aee0d06462d819c0f8f29}{timer\+\_\+right\+\_\+medium} = new Q\+Timer()
+\begin{DoxyCompactList}\small\item\em Timer for spawning right dics on medium mode. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_ac0c40e8e87c07fbd3998ac9fdde9e899}\label{game2_8cpp_ac0c40e8e87c07fbd3998ac9fdde9e899}} 
+Q\+Timer $\ast$ \hyperlink{game2_8cpp_ac0c40e8e87c07fbd3998ac9fdde9e899}{timer\+\_\+left\+\_\+hard} = new Q\+Timer()
+\begin{DoxyCompactList}\small\item\em Timer for spawning left discs on hard mode. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_a173161b2b864495223375038827d9169}\label{game2_8cpp_a173161b2b864495223375038827d9169}} 
+Q\+Timer $\ast$ \hyperlink{game2_8cpp_a173161b2b864495223375038827d9169}{timer\+\_\+mid\+\_\+hard} = new Q\+Timer()
+\begin{DoxyCompactList}\small\item\em Timer for spawning middle discs on hard mode. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_abd3605eb182cbb316c545b97a6ed9d93}\label{game2_8cpp_abd3605eb182cbb316c545b97a6ed9d93}} 
+Q\+Timer $\ast$ \hyperlink{game2_8cpp_abd3605eb182cbb316c545b97a6ed9d93}{timer\+\_\+right\+\_\+hard} = new Q\+Timer()
+\begin{DoxyCompactList}\small\item\em Timer for spawning right discs on hard mode. \end{DoxyCompactList}\item 
+\mbox{\Hypertarget{game2_8cpp_a13c0073e5a590ed3716b8eba94e646b3}\label{game2_8cpp_a13c0073e5a590ed3716b8eba94e646b3}} 
+Q\+Media\+Playlist $\ast$ {\bfseries playlist} = new Q\+Media\+Playlist()
+\item 
+\mbox{\Hypertarget{game2_8cpp_aed53840f09606a90ee24365ffec548c8}\label{game2_8cpp_aed53840f09606a90ee24365ffec548c8}} 
+Q\+Media\+Player $\ast$ \hyperlink{game2_8cpp_aed53840f09606a90ee24365ffec548c8}{music} = new Q\+Media\+Player()
+\begin{DoxyCompactList}\small\item\em For game music. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+\hyperlink{classgame2}{game2} 
+
+implementation of \hyperlink{classgame2}{game2} class 
+
+\subsection{Variable Documentation}
+\mbox{\Hypertarget{game2_8cpp_a6326921112efa5d8d46fa16601d07a9d}\label{game2_8cpp_a6326921112efa5d8d46fa16601d07a9d}} 
+\index{game2.\+cpp@{game2.\+cpp}!missed\+\_\+disks@{missed\+\_\+disks}}
+\index{missed\+\_\+disks@{missed\+\_\+disks}!game2.\+cpp@{game2.\+cpp}}
+\subsubsection{\texorpdfstring{missed\+\_\+disks}{missed\_disks}}
+{\footnotesize\ttfamily int missed\+\_\+disks = 0}
+
+
+
+Missed discs counter. 
+
+Counter for missed discs. \mbox{\Hypertarget{game2_8cpp_ad5255b2ed36beca0ba85eda17d99c421}\label{game2_8cpp_ad5255b2ed36beca0ba85eda17d99c421}} 
+\index{game2.\+cpp@{game2.\+cpp}!total\+\_\+score@{total\+\_\+score}}
+\index{total\+\_\+score@{total\+\_\+score}!game2.\+cpp@{game2.\+cpp}}
+\subsubsection{\texorpdfstring{total\+\_\+score}{total\_score}}
+{\footnotesize\ttfamily int total\+\_\+score = 0}
+
+
+
+Total score counter. 
+
+Counter for total score. 

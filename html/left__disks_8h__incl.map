@@ -1,0 +1,6 @@
+<map id="left_disks.h" name="left_disks.h">
+<area shape="rect" id="node2" href="$game2_8h.html" title="game2 class " alt="" coords="430,80,502,107"/>
+<area shape="rect" id="node8" href="$leftbutton_8h.html" title="leftbutton class " alt="" coords="310,155,396,181"/>
+<area shape="rect" id="node10" href="$midbutton_8h.html" title="midbutton class " alt="" coords="421,155,512,181"/>
+<area shape="rect" id="node11" href="$rightbutton_8h.html" title="rightbutton class " alt="" coords="46,155,140,181"/>
+</map>

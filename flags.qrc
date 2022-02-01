@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Jordan.png</file>
+        <file>Lebanon.png</file>
+        <file>Qatar.webp</file>
+        <file>saudi.png</file>
+        <file>UAE.png</file>
+    </qresource>
+</RCC>
